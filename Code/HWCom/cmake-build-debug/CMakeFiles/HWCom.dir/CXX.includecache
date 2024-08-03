@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxz/Proj/HWCom/AdvanceV2.cpp
+iostream
+-
+vector
+-
+set
+-
+fstream
+-
+unordered_set
+-
+queue
+-
+algorithm
+-
+chrono
+-
+ctime
+-
+iomanip
+-
+map
+-
+cstdio
+-
+
